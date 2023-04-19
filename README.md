@@ -9,7 +9,7 @@ Make a program that employees can use to generate random passwords based on pred
 * JavaScript
 
 
-# GitHub Repository Link: 
+# GitHub Repository Link: https://github.com/KevLuck/Password-Generator
 
 # Website Link:
 
